@@ -10,13 +10,8 @@
 
 该工具不会删除文字的聊天记录，请放心使用。请给个 **Star** 吧，非常感谢！
 
-**现已经支持 Windows 系统中的所有微信版本。**
-
-[国内地址 - 点击下载](
-https://wwvs.lanzouj.com/is77n0yap4dc)
-
-[Github Release - 点击下载](
-https://github.com/blackboxo/CleanMyWechat/releases/download/v2.1/CleanMyWechat.zip)
+## 针对微信4.0版本进行了修正
+重置了图片、视频以及文件的路径，针对微信4.0版本进行了完善。
 
 **碰到无法清理的，请记得勾选第一个选项，勾选后才会清理该账号下的内容。**
 
@@ -56,7 +51,24 @@ cp -r images dist/
 ./dist/main.exe
 ```
 
+## 修改者
+
+Github：@Lcance
+
+
+
+## 开发者
+
+微博：@BlackBoXo
+
+邮箱：bwu18@fudan.edu.cn
+
+Blog：https://www.blackboxo.top/
+
+
 ## 致谢
+
+[@blackboxo](https://github.com/blackboxo)：清理软件主设计
 
 [@mylittlefox](https://www.mylittlefox.art)：图标及 Banner 设计
 
@@ -68,14 +80,7 @@ cp -r images dist/
 
 [@Louhwz](https://github.com/Louhwz)：版本 2.0 的主要开发者，增加多用户支持、多线程删除、自定义路径等
 
-## 开发者
-
-微博：@BlackBoXo
-
-邮箱：bwu18@fudan.edu.cn
-
-Blog：https://www.blackboxo.top/
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=blackboxo/CleanMyWechat&type=Date)](https://star-history.com/#blackboxo/CleanMyWechat&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=Lcance/CleanMyWechat-4.0-Fix&type=Date)](https://star-history.com/#Lcance/CleanMyWechat-4.0-Fix&Date)
