@@ -1,0 +1,15 @@
+__pycache__/
+*.py[cod]
+
+dist/
+build/
+*.spec
+
+config.json
+path_file.txt
+
+.vscode/
+.idea/
+
+venv/
+env/
