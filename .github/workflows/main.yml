@@ -36,5 +36,3 @@ jobs:
       with:
         name: CleanMyWechat-Windows
         path: dist/
-        name: CleanMyWechat-Windows
-        path: dist/
